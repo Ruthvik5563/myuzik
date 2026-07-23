@@ -1,2 +1,3 @@
-# myuzik
-audio player
+# red_music
+
+A new Flutter project.
